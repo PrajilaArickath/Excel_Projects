@@ -42,7 +42,8 @@ Excel: formulas, PivotTables, slicers, charts and a KPI dashboard. Skills shown:
 Margins here are **gross** margins (revenue minus product cost). The data has no operating expenses such as rent, salaries or marketing, so it cannot show whether the business is profitable overall. The dataset is also small (41 orders over 3 months), so the findings are indicative, not conclusive.
 
 ## Next steps
-Rebuild the dashboard in Power BI and add SQL queries for the same questions (see the Power-BI repository).
+## Next steps
+A larger version of this analysis, covering about 30,000 orders from 2024 to 2026, is being built in Power BI. SQL queries for the same questions will follow.
 
 ---
 👤 **Prajila Mele Arickath** | [LinkedIn](https://www.linkedin.com/in/praji-mele-arickath-426029208)
