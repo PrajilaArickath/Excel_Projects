@@ -2,7 +2,7 @@
 
 An Excel analysis of Q1 2026 retail sales for an electronics and accessories business. It looks at one question: **where does the revenue come from, and why is so little of it kept as profit?**
 
-![Dashboard](Sales%20Analysis%20%26%20Profitability-screenshot.png)
+![Dashboard]([Sales%20Analysis%20%26%20Profitability-screenshot.png](https://github.com/PrajilaArickath/Excel_Projects/blob/main/Sales%20Analysis%20&%20Profitability-screenshot.png.png?raw=true))
 
 📁 Workbook: [Retail_Sales Analysis_Profitability_Project.xlsx](Retail_Sales%20Analysis_Profitability_Project.xlsx)
 
